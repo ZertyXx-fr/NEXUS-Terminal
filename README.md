@@ -1,0 +1,2 @@
+# NEXUS-Terminal
+(fr) 
